@@ -1,5 +1,6 @@
 import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
+import SinifDurum.Ortalama;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,7 +19,8 @@ public class Main {
 
         //HesapMakinesi hesapMakinesi = new HesapMakinesi();
 
-        KullaniciGiris kullaniciGiris = new KullaniciGiris();
+        //KullaniciGiris kullaniciGiris = new KullaniciGiris();
 
+        Ortalama ortalama = new Ortalama();
     }
 }
