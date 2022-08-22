@@ -1,3 +1,4 @@
+import Circle.Circle;
 import Hipotenus.Hipotenus;
 import kdv.Kdv;
 import taksi.Taksimetre;
@@ -9,6 +10,8 @@ public class Main {
 
         //Hipotenus hipotenus = new Hipotenus();
 
-        Taksimetre taksimetre = new Taksimetre();
+        //Taksimetre taksimetre = new Taksimetre();
+
+        Circle circle = new Circle();
     }
 }
