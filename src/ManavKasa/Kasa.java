@@ -33,6 +33,8 @@ public class Kasa {
         double total = (armut*armutKg) + (elma*elmaKg) + (domates*domatesKg) + (muz*muzKg) + (patlican*patlicanKg);
         System.out.print("Toplam Tutar : " + total + " TL");
 
+
+
         scanner.close();
     }
 }

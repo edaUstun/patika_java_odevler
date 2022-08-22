@@ -18,7 +18,9 @@ public class Main {
 
         //IndekHesaplama indekHesaplama = new IndekHesaplama();
 
-        Kasa kasa = new Kasa();
+        //Kasa kasa = new Kasa();
+
+        HesapMakinesi hesapMakinesi = new HesapMakinesi();
 
     }
 }
