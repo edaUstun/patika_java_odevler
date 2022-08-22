@@ -20,6 +20,8 @@ public class Circle {
         System.out.println("Dairenin cevresi: " + Cevre(r));
 
         System.out.println("Dairenin dilim alani: " + CenterAlan(r,x));
+
+        scanner.close();
     }
 
     public double Alan(int r) {

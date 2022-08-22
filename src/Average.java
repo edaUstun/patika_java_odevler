@@ -38,5 +38,7 @@ public class Average {
             System.out.println("Sinifta Kaldiniz");
             break;
         }
+
+        scanner.close();
     }
 }

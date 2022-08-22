@@ -23,5 +23,6 @@ public class Hipotenus {
         System.out.println("Cevre: " + cevre);
         System.out.println("Alan: " + alan);
 
+        scanner.close();
     }
 }

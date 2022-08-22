@@ -21,5 +21,7 @@ public class Kdv {
         System.out.println("kdv tutari: " + kdvTutar);
         System.out.println("kdv'li: " + kdvliTutar);
 
+        scanner.close();
     }
+
 }

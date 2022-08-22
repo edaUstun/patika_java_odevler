@@ -20,5 +20,7 @@ public class Taksimetre {
         } else if (total>20) {
             System.out.println("Ucret:" + total);
         }
+
+        scanner.close();
     }
 }
