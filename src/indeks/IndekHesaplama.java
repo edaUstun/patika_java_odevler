@@ -8,16 +8,16 @@ public class IndekHesaplama {
         Scanner scanner = new Scanner(System.in);
 
         double boy, kilo;
-        double total;
+        double bmi;
 
         System.out.print("Boy (m): ");
         boy = scanner.nextDouble();
         System.out.print("Kilo (kg): ");
         kilo = scanner.nextDouble();
 
-        total = kilo / (boy*boy);
+        bmi = kilo / (boy*boy);
 
-        System.out.print("Vucut kilo indeksiniz: " + total);
+        System.out.print("Vucut kilo indeksiniz: " + bmi);
 
         scanner.close();
     }
