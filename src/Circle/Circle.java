@@ -12,14 +12,25 @@ public class Circle {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Dairenin yaricapini giriniz: ");
         r = scanner.nextInt();
-        System.out.println("Dairenin merkez acisinin olcusunu giriniz: ");
+        System.out.println("Mekrez acinin olcusunu giriniz: ");
         x = scanner.nextInt();
 
-        System.out.println("Dairenin alani: " + Alan(r, x));
+        System.out.println("Dairenin alani: " + Alan(r));
+
+        System.out.println("Dairenin cevresi: " + Cevre(r));
+
+        System.out.println("Dairenin dilim alani: " + CenterAlan(r,x));
     }
 
-    public double Alan(int r, int x) {
+    public double Alan(int r) {
+        return pi * Math.pow(r,2);
+    }
+
+    public double Cevre(int r) {
+        return pi * 2 * r;
+    }
+
+    public double CenterAlan(int r, int x) {
         return (pi * Math.pow(r,2) * x)/360;
     }
-
 }
