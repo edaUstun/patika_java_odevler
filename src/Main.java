@@ -1,4 +1,5 @@
 import HesapMakinesi.HesapMakinesi;
+import KullanciGiris.KullaniciGiris;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,7 +16,9 @@ public class Main {
 
         //Kasa kasa = new Kasa();
 
-        HesapMakinesi hesapMakinesi = new HesapMakinesi();
+        //HesapMakinesi hesapMakinesi = new HesapMakinesi();
+
+        KullaniciGiris kullaniciGiris = new KullaniciGiris();
 
     }
 }
