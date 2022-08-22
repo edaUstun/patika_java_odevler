@@ -1,9 +1,4 @@
-import Circle.Circle;
-import Hipotenus.Hipotenus;
-import ManavKasa.Kasa;
-import indeks.IndekHesaplama;
-import kdv.Kdv;
-import taksi.Taksimetre;
+import HesapMakinesi.HesapMakinesi;
 
 public class Main {
     public static void main(String[] args) {

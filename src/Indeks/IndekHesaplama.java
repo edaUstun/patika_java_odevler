@@ -1,4 +1,4 @@
-package indeks;
+package Indeks;
 
 import java.util.Scanner;
 

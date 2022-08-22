@@ -1,3 +1,5 @@
+package HesapMakinesi;
+
 import java.util.Scanner;
 
 public class HesapMakinesi {

@@ -1,4 +1,4 @@
-package kdv;
+package Kdv;
 
 import java.util.Scanner;
 

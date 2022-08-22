@@ -1,4 +1,4 @@
-package taksi;
+package Taksi;
 
 import java.util.Scanner;
 
