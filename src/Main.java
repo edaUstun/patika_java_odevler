@@ -1,5 +1,6 @@
 import Circle.Circle;
 import Hipotenus.Hipotenus;
+import ManavKasa.Kasa;
 import indeks.IndekHesaplama;
 import kdv.Kdv;
 import taksi.Taksimetre;
@@ -15,7 +16,9 @@ public class Main {
 
         //Circle circle = new Circle();
 
-        IndekHesaplama indekHesaplama = new IndekHesaplama();
+        //IndekHesaplama indekHesaplama = new IndekHesaplama();
+
+        Kasa kasa = new Kasa();
 
     }
 }
