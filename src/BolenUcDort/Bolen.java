@@ -9,15 +9,18 @@ public class Bolen {
 
         int number;
         int toplam = 0;
+        int sayici = 0;
 
         System.out.print("Sayi Giriniz: ");
         number = scanner.nextInt();
 
         for(int i=0; i<=number; i++) {
             if(i%3==0 && i%4==0) {
-                toplam += i;
+                toplam =+ i;
+                sayici++;
             }
         }
-        System.out.println("Toplam: "+toplam);
+        System.out.print("Ortalaması  : "+ (toplam/sayici));
+        scanner.close();
     }
 }
