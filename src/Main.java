@@ -4,6 +4,7 @@ import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
+import UcakBilet.Bilet;
 
 public class Main {
     public static void main(String[] args) {
@@ -30,6 +31,8 @@ public class Main {
 
         //Siralama siralama = new Siralama();
 
-         Burc burc = new Burc();
+        //Burc burc = new Burc();
+
+        Bilet bilet = new Bilet();
     }
 }
