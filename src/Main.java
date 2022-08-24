@@ -1,3 +1,4 @@
+import Burc.Burc;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
@@ -27,6 +28,8 @@ public class Main {
 
         //Hava hava = new Hava();
 
-        Siralama siralama = new Siralama();
+        //Siralama siralama = new Siralama();
+
+         Burc burc = new Burc();
     }
 }
