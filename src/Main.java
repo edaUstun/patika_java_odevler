@@ -1,4 +1,5 @@
 import ArtikYil.ArtikYil;
+import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import HavaDurumu.Hava;
@@ -39,7 +40,33 @@ public class Main {
 
         //Zodyagi zodyagi =new Zodyagi();
 
-        ArtikYil artikYil = new ArtikYil();
+        //ArtikYil artikYil = new ArtikYil();
 
+        Bolen bolen = new Bolen();
+
+
+
+
+
+
+
+
+
+
+
+        /*
+        // Boolean ile for dongusu yapimi
+
+        int sayi;
+
+        for(boolean run = true; run;) {
+            System.out.println("Sayi Giriniz: ");
+            sayi = scanner.nextInt();
+
+            if(sayi<0){
+                run =false;
+            }
+        }
+         */
     }
 }
