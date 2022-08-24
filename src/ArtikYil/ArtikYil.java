@@ -19,5 +19,7 @@ public class ArtikYil {
                 System.out.println(year + " bir artık yıldır değildir !");
 
         }
+
+        scanner.close();
     }
 }
