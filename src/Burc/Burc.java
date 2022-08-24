@@ -24,7 +24,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==2) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=28) {
                 if(day<=19) {
                     System.out.println("Kova");
                 } else {
@@ -34,7 +34,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==3) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=31) {
                 if(day<=20) {
                     System.out.println("Balik");
                 } else {
@@ -54,7 +54,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==5) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=31) {
                 if(day<=21) {
                     System.out.println("Boga");
                 } else {
@@ -74,7 +74,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==7) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=31) {
                 if(day<=22) {
                     System.out.println("Yengec");
                 } else {
@@ -84,7 +84,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==8) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=31) {
                 if(day<=22) {
                     System.out.println("Aslan");
                 } else {
@@ -104,7 +104,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==10) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=31) {
                 if(day<=22) {
                     System.out.println("Terzi");
                 } else {
@@ -124,7 +124,7 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month==12) {
-            if(day>=1 && day<=30) {
+            if(day>=1 && day<=31) {
                 if(day<=22) {
                     System.out.println("Oglak");
                 } else {
@@ -134,9 +134,9 @@ public class Burc {
                 System.out.println("Hatali Gun Girildi");
             }
         } else if (month > 12) {
-            System.out.println("Hatali Giris");
+            System.out.println("Hatali Ay Girisi");
         } else {
-            System.out.println("Hatali Giris");
+            System.out.println("Hatali Ay Girisi");
         }
     }
 }
