@@ -2,6 +2,7 @@ import ArtikYil.ArtikYil;
 import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
+import DortBesKuvvet.Kuvvetleri;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
@@ -45,8 +46,9 @@ public class Main {
 
         //Bolen bolen = new Bolen();
 
-        TekSayi tekSayi = new TekSayi();
+        //TekSayi tekSayi = new TekSayi();
 
+        Kuvvetleri kuvvetleri = new Kuvvetleri();
 
 
 
