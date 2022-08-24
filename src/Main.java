@@ -1,4 +1,5 @@
 import Burc.Burc;
+import CinZodyagi.Zodyagi;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
@@ -33,6 +34,8 @@ public class Main {
 
         //Burc burc = new Burc();
 
-        Bilet bilet = new Bilet();
+        //Bilet bilet = new Bilet();
+
+        Zodyagi zodyagi =new Zodyagi();
     }
 }
