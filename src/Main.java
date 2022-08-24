@@ -1,3 +1,4 @@
+import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
 import SinifDurum.Ortalama;
@@ -21,6 +22,8 @@ public class Main {
 
         //KullaniciGiris kullaniciGiris = new KullaniciGiris();
 
-        Ortalama ortalama = new Ortalama();
+        //Ortalama ortalama = new Ortalama();
+
+         Hava hava = new Hava();
     }
 }
