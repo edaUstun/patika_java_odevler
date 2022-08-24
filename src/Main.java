@@ -7,6 +7,7 @@ import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
+import TekSayiToplam.TekSayi;
 import UcakBilet.Bilet;
 
 public class Main {
@@ -42,9 +43,9 @@ public class Main {
 
         //ArtikYil artikYil = new ArtikYil();
 
-        Bolen bolen = new Bolen();
+        //Bolen bolen = new Bolen();
 
-
+        TekSayi tekSayi = new TekSayi();
 
 
 
