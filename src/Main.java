@@ -2,6 +2,7 @@ import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import KullanciGiris.KullaniciGiris;
 import SinifDurum.Ortalama;
+import Siralama.Siralama;
 
 public class Main {
     public static void main(String[] args) {
@@ -24,6 +25,8 @@ public class Main {
 
         //Ortalama ortalama = new Ortalama();
 
-         Hava hava = new Hava();
+        //Hava hava = new Hava();
+
+        Siralama siralama = new Siralama();
     }
 }
