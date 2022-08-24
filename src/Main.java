@@ -11,6 +11,7 @@ import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
 import UcakBilet.Bilet;
+import UsAlma.UsAlma;
 
 public class Main {
     public static void main(String[] args) {
@@ -51,10 +52,9 @@ public class Main {
 
         //Kuvvetleri kuvvetleri = new Kuvvetleri();
 
-        Kombinasyon kombinasyon = new Kombinasyon();
+        //Kombinasyon kombinasyon = new Kombinasyon();
 
-
-
+        UsAlma usAlma = new UsAlma();
 
 
 
