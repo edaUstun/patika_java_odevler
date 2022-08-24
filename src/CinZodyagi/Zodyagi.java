@@ -55,5 +55,7 @@ public class Zodyagi {
         } else {
             System.out.println("Hatali Giris Yaptınız");
         }
+
+        scanner.close();
     }
 }
