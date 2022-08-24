@@ -138,5 +138,7 @@ public class Burc {
         } else {
             System.out.println("Hatali Ay Girisi");
         }
+
+        scanner.close();
     }
 }
