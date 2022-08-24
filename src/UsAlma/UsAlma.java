@@ -20,7 +20,7 @@ public class UsAlma {
         for(int i=1; i<=power+1; i++) {
             total = i * (exponent);
         }
-        System.out.println(total);
+        System.out.println("SONUC: " + total);
 
         scanner.close();
     }
