@@ -35,6 +35,6 @@ public class Siralama {
             }
         }
 
-
+        scanner.close();
     }
 }
