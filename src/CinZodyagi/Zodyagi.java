@@ -53,7 +53,7 @@ public class Zodyagi {
         } else if (yearBirth%12==11) {
             System.out.println("Çin Zodyağı Burcunuz : " + zodyagi[11]);
         } else {
-            System.out.println("Hatali Giris");
+            System.out.println("Hatali Giris Yaptınız");
         }
     }
 }
