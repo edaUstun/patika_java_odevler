@@ -5,6 +5,7 @@ import CinZodyagi.Zodyagi;
 import DortBesKuvvet.Kuvvetleri;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
+import Kombinasyon.Kombinasyon;
 import KullanciGiris.KullaniciGiris;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
@@ -48,9 +49,9 @@ public class Main {
 
         //TekSayi tekSayi = new TekSayi();
 
-        Kuvvetleri kuvvetleri = new Kuvvetleri();
+        //Kuvvetleri kuvvetleri = new Kuvvetleri();
 
-
+        Kombinasyon kombinasyon = new Kombinasyon();
 
 
 
