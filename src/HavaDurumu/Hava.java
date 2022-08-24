@@ -23,5 +23,7 @@ public class Hava {
         } else  {
             System.out.println("Yuzmeye gidebilirsiniz.");
         }
+
+        scanner.close();
     }
 }
