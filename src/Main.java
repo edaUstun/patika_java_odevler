@@ -1,3 +1,4 @@
+import ArtikYil.ArtikYil;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import HavaDurumu.Hava;
@@ -36,6 +37,9 @@ public class Main {
 
         //Bilet bilet = new Bilet();
 
-        Zodyagi zodyagi =new Zodyagi();
+        //Zodyagi zodyagi =new Zodyagi();
+
+        ArtikYil artikYil = new ArtikYil();
+
     }
 }
