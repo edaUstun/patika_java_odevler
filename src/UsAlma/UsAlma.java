@@ -17,8 +17,8 @@ public class UsAlma {
         System.out.print("TABAN: ");
         power = scanner.nextInt();
 
-        for(int i=1; i<=power+1; i++) {
-            total = i * (exponent);
+        for(int i=1; i<=power; i++) {
+            total = total * (exponent);
         }
         System.out.println("SONUC: " + total);
 
