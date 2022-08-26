@@ -1,4 +1,5 @@
 import ArtikYil.ArtikYil;
+import BasamakToplam.BasamakToplama;
 import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
@@ -54,7 +55,9 @@ public class Main {
 
         //Kombinasyon kombinasyon = new Kombinasyon();
 
-        UsAlma usAlma = new UsAlma();
+        //UsAlma usAlma = new UsAlma();
+
+        BasamakToplama basamakToplama = new BasamakToplama();
 
 
 
