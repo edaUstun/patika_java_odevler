@@ -4,6 +4,7 @@ import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import DortBesKuvvet.Kuvvetleri;
+import Harmonik.Harmonik;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import Kombinasyon.Kombinasyon;
@@ -57,9 +58,9 @@ public class Main {
 
         //UsAlma usAlma = new UsAlma();
 
-        BasamakToplama basamakToplama = new BasamakToplama();
+        //BasamakToplama basamakToplama = new BasamakToplama();
 
-
+        Harmonik harmonik = new Harmonik();
 
         /*
         // Boolean ile for dongusu yapimi
