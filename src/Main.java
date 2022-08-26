@@ -1,3 +1,4 @@
+import ATM.Atm;
 import ArtikYil.ArtikYil;
 import BasamakToplam.BasamakToplama;
 import BolenUcDort.Bolen;
@@ -63,7 +64,9 @@ public class Main {
 
         //Harmonik harmonik = new Harmonik();
 
-        Yildiz yildiz = new Yildiz();
+        //Yildiz yildiz = new Yildiz();
+
+        Atm atm = new Atm();
 
         /*
         // Boolean ile for dongusu yapimi
