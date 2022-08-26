@@ -14,6 +14,7 @@ import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
 import UcakBilet.Bilet;
 import UsAlma.UsAlma;
+import Yildiz.Yildiz;
 
 public class Main {
     public static void main(String[] args) {
@@ -60,7 +61,9 @@ public class Main {
 
         //BasamakToplama basamakToplama = new BasamakToplama();
 
-        Harmonik harmonik = new Harmonik();
+        //Harmonik harmonik = new Harmonik();
+
+        Yildiz yildiz = new Yildiz();
 
         /*
         // Boolean ile for dongusu yapimi
