@@ -7,7 +7,7 @@ public class Harmonik {
     public Harmonik() {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Sayi: ");
+        System.out.print("Sayi giriniz: ");
         int number = scanner.nextInt();
 
         double result = 0;
