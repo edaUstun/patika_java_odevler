@@ -11,6 +11,7 @@ import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import Kombinasyon.Kombinasyon;
 import KullanciGiris.KullaniciGiris;
+import MaxMin.MaxMin;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
@@ -69,7 +70,9 @@ public class Main {
 
         //Atm atm = new Atm();
 
-        EbobEkok ebobEkok = new EbobEkok();
+        //EbobEkok ebobEkok = new EbobEkok();
+
+        MaxMin maxMin = new MaxMin();
 
 
 
