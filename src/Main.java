@@ -7,6 +7,7 @@ import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import DortBesKuvvet.Kuvvetleri;
 import EbobEkok.EbobEkok;
+import Fibonacci.Fibonacci;
 import Harmonik.Harmonik;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
@@ -81,7 +82,9 @@ public class Main {
 
         //TersYildiz tersYildiz = new TersYildiz();
 
-        AsalSayi asalSayi = new AsalSayi();
+        //AsalSayi asalSayi = new AsalSayi();
+
+        Fibonacci fibonacci = new Fibonacci();
 
 
 
