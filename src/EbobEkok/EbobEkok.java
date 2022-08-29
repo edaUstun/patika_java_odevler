@@ -46,7 +46,7 @@ public class EbobEkok {
 
         System.out.println(num1 + " ve " + num2 + "' nin Ekok' u : " + (num1*num2)/i);
 
-
+        scanner.close();
     }
 }
 
