@@ -17,6 +17,7 @@ public class AsalSayi {
             if(asal) {
                 System.out.print(i+ " ");
             }
+
         }
 
     }
