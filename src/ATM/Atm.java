@@ -58,6 +58,9 @@ public class Atm {
                     System.out.println("Kalan Hakkiniz : " + right);
                 }
             }
+
+            scanner.close();
+
         }
     }
 }
