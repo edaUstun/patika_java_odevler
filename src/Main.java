@@ -1,5 +1,6 @@
 import ATM.Atm;
 import ArtikYil.ArtikYil;
+import AsalSayi.AsalSayi;
 import BasamakToplam.BasamakToplama;
 import BolenUcDort.Bolen;
 import Burc.Burc;
@@ -78,7 +79,9 @@ public class Main {
 
         //MukemmelSayi mukemmelSayi = new MukemmelSayi();
 
-        TersYildiz tersYildiz = new TersYildiz();
+        //TersYildiz tersYildiz = new TersYildiz();
+
+        AsalSayi asalSayi = new AsalSayi();
 
 
 
