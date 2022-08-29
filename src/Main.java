@@ -16,6 +16,7 @@ import MukemmelSayi.MukemmelSayi;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
+import TersYildiz.TersYildiz;
 import UcakBilet.Bilet;
 import UsAlma.UsAlma;
 import Yildiz.Yildiz;
@@ -75,10 +76,9 @@ public class Main {
 
         //MaxMin maxMin = new MaxMin();
 
-        MukemmelSayi mukemmelSayi = new MukemmelSayi();
+        //MukemmelSayi mukemmelSayi = new MukemmelSayi();
 
-
-
+        TersYildiz tersYildiz = new TersYildiz();
 
 
 
