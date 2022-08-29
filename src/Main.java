@@ -5,6 +5,7 @@ import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import DortBesKuvvet.Kuvvetleri;
+import EbobEkok.EbobEkok;
 import Harmonik.Harmonik;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
@@ -66,7 +67,14 @@ public class Main {
 
         //Yildiz yildiz = new Yildiz();
 
-        Atm atm = new Atm();
+        //Atm atm = new Atm();
+
+        EbobEkok ebobEkok = new EbobEkok();
+
+
+
+
+
 
         /*
         // Boolean ile for dongusu yapimi
