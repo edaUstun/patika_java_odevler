@@ -12,6 +12,7 @@ import HesapMakinesi.HesapMakinesi;
 import Kombinasyon.Kombinasyon;
 import KullanciGiris.KullaniciGiris;
 import MaxMin.MaxMin;
+import MukemmelSayi.MukemmelSayi;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
@@ -72,7 +73,9 @@ public class Main {
 
         //EbobEkok ebobEkok = new EbobEkok();
 
-        MaxMin maxMin = new MaxMin();
+        //MaxMin maxMin = new MaxMin();
+
+        MukemmelSayi mukemmelSayi = new MukemmelSayi();
 
 
 
