@@ -5,6 +5,7 @@ import BasamakToplam.BasamakToplama;
 import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
+import DeseneGoreMetot.DesenMetot;
 import DortBesKuvvet.Kuvvetleri;
 import EbobEkok.EbobEkok;
 import Fibonacci.Fibonacci;
@@ -101,7 +102,14 @@ public class Main {
 
         //RecursiveUsHesaplama recursiveUsHesaplama = new RecursiveUsHesaplama();
 
-        RecursiveAsalSayi recursiveAsalSayi = new RecursiveAsalSayi();
+        //RecursiveAsalSayi recursiveAsalSayi = new RecursiveAsalSayi();
+
+        DesenMetot desenMetot = new DesenMetot();
+
+
+
+
+
         /*
         // Boolean ile for dongusu yapimi
 
