@@ -8,6 +8,7 @@ import CinZodyagi.Zodyagi;
 import DortBesKuvvet.Kuvvetleri;
 import EbobEkok.EbobEkok;
 import Fibonacci.Fibonacci;
+import GelismisHesapMakinesi.GelismisHesapMakinesi;
 import Harmonik.Harmonik;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
@@ -92,7 +93,9 @@ public class Main {
 
         //Palindrom palindrom = new Palindrom();
 
-        RecursiveFibonacci recursiveFibonacci = new RecursiveFibonacci();
+        //RecursiveFibonacci recursiveFibonacci = new RecursiveFibonacci();
+
+        GelismisHesapMakinesi gelismisHesapMakinesi = new GelismisHesapMakinesi();
         /*
         // Boolean ile for dongusu yapimi
 
