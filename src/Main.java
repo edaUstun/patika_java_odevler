@@ -18,6 +18,7 @@ import MaxMin.MaxMin;
 import MukemmelSayi.MukemmelSayi;
 import Palindrom.Palindrom;
 import RecursiveFibonacci.RecursiveFibonacci;
+import RecursiveUsHesaplama.RecursiveUsHesaplama;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
@@ -95,7 +96,9 @@ public class Main {
 
         //RecursiveFibonacci recursiveFibonacci = new RecursiveFibonacci();
 
-        GelismisHesapMakinesi gelismisHesapMakinesi = new GelismisHesapMakinesi();
+        //GelismisHesapMakinesi gelismisHesapMakinesi = new GelismisHesapMakinesi();
+
+        RecursiveUsHesaplama recursiveUsHesaplama = new RecursiveUsHesaplama();
         /*
         // Boolean ile for dongusu yapimi
 
