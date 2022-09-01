@@ -15,6 +15,7 @@ import Kombinasyon.Kombinasyon;
 import KullanciGiris.KullaniciGiris;
 import MaxMin.MaxMin;
 import MukemmelSayi.MukemmelSayi;
+import Palindrom.Palindrom;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
@@ -24,6 +25,8 @@ import UsAlma.UsAlma;
 import Yildiz.Yildiz;
 
 public class Main {
+
+    
     public static void main(String[] args) {
 
         //Kdv kdv = new Kdv();
@@ -84,10 +87,9 @@ public class Main {
 
         //AsalSayi asalSayi = new AsalSayi();
 
-        Fibonacci fibonacci = new Fibonacci();
+        //Fibonacci fibonacci = new Fibonacci();
 
-
-
+        Palindrom palindrom = new Palindrom();
         /*
         // Boolean ile for dongusu yapimi
 
