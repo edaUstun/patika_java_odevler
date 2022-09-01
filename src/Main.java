@@ -16,6 +16,7 @@ import KullanciGiris.KullaniciGiris;
 import MaxMin.MaxMin;
 import MukemmelSayi.MukemmelSayi;
 import Palindrom.Palindrom;
+import RecursiveFibonacci.RecursiveFibonacci;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
@@ -89,7 +90,9 @@ public class Main {
 
         //Fibonacci fibonacci = new Fibonacci();
 
-        Palindrom palindrom = new Palindrom();
+        //Palindrom palindrom = new Palindrom();
+
+        RecursiveFibonacci recursiveFibonacci = new RecursiveFibonacci();
         /*
         // Boolean ile for dongusu yapimi
 
