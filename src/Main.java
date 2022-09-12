@@ -26,6 +26,7 @@ import RecursiveUsHesaplama.RecursiveUsHesaplama;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
+import TekrarEdenCiftSayilar.TekrarSayi;
 import TersYildiz.TersYildiz;
 import UcakBilet.Bilet;
 import UsAlma.UsAlma;
@@ -112,7 +113,9 @@ public class Main {
 
         //EnYakinSiralama enYakinSiralama = new EnYakinSiralama();
 
-        Harf harf = new Harf();
+        //Harf harf = new Harf();
+
+        TekrarSayi tekrarSayi = new TekrarSayi();
 
 
 
