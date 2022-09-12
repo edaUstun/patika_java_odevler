@@ -6,6 +6,7 @@ import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import DeseneGoreMetot.DesenMetot;
+import DiziElemanSiralama.DiziElemanSiralama;
 import DiziHarfYazdirma.Harf;
 import DiziHarmonik.Harmonik;
 import DiziSiralama.EnYakinSiralama;
@@ -115,8 +116,9 @@ public class Main {
 
         //Harf harf = new Harf();
 
-        TekrarSayi tekrarSayi = new TekrarSayi();
+        //TekrarSayi tekrarSayi = new TekrarSayi();
 
+        DiziElemanSiralama diziElemanSiralama = new DiziElemanSiralama();
 
 
         /*
