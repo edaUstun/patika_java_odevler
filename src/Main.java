@@ -6,11 +6,11 @@ import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import DeseneGoreMetot.DesenMetot;
+import DiziHarmonik.Harmonik;
 import DortBesKuvvet.Kuvvetleri;
 import EbobEkok.EbobEkok;
 import Fibonacci.Fibonacci;
 import GelismisHesapMakinesi.GelismisHesapMakinesi;
-import Harmonik.Harmonik;
 import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import Kombinasyon.Kombinasyon;
@@ -104,7 +104,9 @@ public class Main {
 
         //RecursiveAsalSayi recursiveAsalSayi = new RecursiveAsalSayi();
 
-        DesenMetot desenMetot = new DesenMetot();
+        // DesenMetot desenMetot = new DesenMetot();
+
+        Harmonik harmonik = new Harmonik();
 
 
 
