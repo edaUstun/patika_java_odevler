@@ -6,6 +6,7 @@ import BolenUcDort.Bolen;
 import Burc.Burc;
 import CinZodyagi.Zodyagi;
 import DeseneGoreMetot.DesenMetot;
+import DiziElemanFrekansi.DiziFrekans;
 import DiziElemanSiralama.DiziElemanSiralama;
 import DiziHarfYazdirma.Harf;
 import DiziHarmonik.Harmonik;
@@ -118,8 +119,9 @@ public class Main {
 
         //TekrarSayi tekrarSayi = new TekrarSayi();
 
-        DiziElemanSiralama diziElemanSiralama = new DiziElemanSiralama();
+        //DiziElemanSiralama diziElemanSiralama = new DiziElemanSiralama();
 
+        DiziFrekans diziFrekans = new DiziFrekans();
 
         /*
         // Boolean ile for dongusu yapimi
