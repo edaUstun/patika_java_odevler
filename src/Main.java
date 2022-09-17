@@ -19,6 +19,7 @@ import HavaDurumu.Hava;
 import HesapMakinesi.HesapMakinesi;
 import Kombinasyon.Kombinasyon;
 import KullanciGiris.KullaniciGiris;
+import MatrisTranspozu.Transpoz;
 import MaxMin.MaxMin;
 import MukemmelSayi.MukemmelSayi;
 import Palindrom.Palindrom;
@@ -121,7 +122,9 @@ public class Main {
 
         //DiziElemanSiralama diziElemanSiralama = new DiziElemanSiralama();
 
-        DiziFrekans diziFrekans = new DiziFrekans();
+        //DiziFrekans diziFrekans = new DiziFrekans();
+
+        Transpoz transpoz = new Transpoz();
 
         /*
         // Boolean ile for dongusu yapimi
