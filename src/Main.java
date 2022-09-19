@@ -26,6 +26,7 @@ import Palindrom.Palindrom;
 import RecursiveAsalSayi.RecursiveAsalSayi;
 import RecursiveFibonacci.RecursiveFibonacci;
 import RecursiveUsHesaplama.RecursiveUsHesaplama;
+import SayiTahminOyunu.Tahmin;
 import SinifDurum.Ortalama;
 import Siralama.Siralama;
 import TekSayiToplam.TekSayi;
@@ -124,7 +125,9 @@ public class Main {
 
         //DiziFrekans diziFrekans = new DiziFrekans();
 
-        Transpoz transpoz = new Transpoz();
+        //Transpoz transpoz = new Transpoz();
+
+        Tahmin tahmin = new Tahmin();
 
         /*
         // Boolean ile for dongusu yapimi
