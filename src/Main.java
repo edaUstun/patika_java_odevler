@@ -130,7 +130,7 @@ public class Main {
 
         //Tahmin tahmin = new Tahmin();
 
-        Palindromik palindromik = new Palindromik();
+        //Palindromik palindromik = new Palindromik();
 
         /*
         // Boolean ile for dongusu yapimi
