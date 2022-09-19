@@ -23,6 +23,7 @@ import MatrisTranspozu.Transpoz;
 import MaxMin.MaxMin;
 import MukemmelSayi.MukemmelSayi;
 import Palindrom.Palindrom;
+import PalindromikKelime.Palindromik;
 import RecursiveAsalSayi.RecursiveAsalSayi;
 import RecursiveFibonacci.RecursiveFibonacci;
 import RecursiveUsHesaplama.RecursiveUsHesaplama;
@@ -127,7 +128,9 @@ public class Main {
 
         //Transpoz transpoz = new Transpoz();
 
-        Tahmin tahmin = new Tahmin();
+        //Tahmin tahmin = new Tahmin();
+
+        Palindromik palindromik = new Palindromik();
 
         /*
         // Boolean ile for dongusu yapimi
